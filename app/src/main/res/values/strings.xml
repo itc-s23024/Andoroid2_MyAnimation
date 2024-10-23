@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Animation</string>
+    <string name="app_name">MyAnimation</string>
+    <string name="tutorial_title_0" translatable="false">Discover Fashion Trends</string>
+    <string name="tutorial_description_0">You can easily find the latest fashion trends and styling ideas in this app. Sophisticated photos and content filled with inspiration await you.</string>
+    <string name="tutorial_title_1" translatable="false">Explorer Stunning Photography</string>
+    <string name="tutorial_description_1">Explore beautiful photos provided within the app and enjoy an astonishing visual experience. Excellent works by professional photographers will delight your eyes.</string>
+    <string name="tutorial_title_2" translatable="false">Get Inspired by Creative Ideas</string>
+    <string name="tutorial_description_2">The app offers a wealth of content filled with stylish ideas and creative concepts. Discover new ideas to express your style and personality, and find ways to make yourself even more attractive.</string>
 </resources>
