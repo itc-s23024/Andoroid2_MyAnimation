@@ -31,7 +31,7 @@ import androidx.compose.ui.unit.sp
 import jp.ac.it_college.std.s23024.myanimation.R
 
 @Composable
-private fun Tutorial(
+ fun Tutorial(
     modifier: Modifier = Modifier,
     @DrawableRes imageRes: Int,
     title: String,
